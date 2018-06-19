@@ -11,7 +11,7 @@
 	"qcloudRoot": "./server/",
 	"compileType": "miniprogram",
 	"appid": "wxd3ef1b19e4f9a672",
-	"projectname": "mpvuedemo",
+	"projectname": "Mpvuepro",
 	"condition": {
 		"search": {
 			"current": -1,
