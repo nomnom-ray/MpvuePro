@@ -1,12 +1,21 @@
 <script>
   export default {
-    async created () {
+    async created() {
       console.log('小程序启动')
     }
   }
 </script>
 
 <style>
+  .text-footer {
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 12px;
+    color: #EA5A49;
+  }
+  .text-primary {
+    color: #EA5A49;
+  }
   .btn {
     color: white;
     background: #EA5A49;

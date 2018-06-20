@@ -40,7 +40,7 @@
     }
   }
 </script>
-<style>
+<style scoped="scoped">
   .progressbar {
     text-align: center;
     margin-top: 10px;
