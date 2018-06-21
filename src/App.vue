@@ -1,6 +1,6 @@
 <script>
   export default {
-    async created() {
+    async created () {
       console.log('小程序启动')
     }
   }
@@ -20,6 +20,7 @@
     color: white;
     background: #EA5A49;
     margin-bottom: 10px;
+    margin-top: 10px;
     padding-left: 15px;
     border-radius: 2px;
     font-size: 16px;

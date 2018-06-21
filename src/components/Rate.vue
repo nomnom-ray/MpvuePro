@@ -14,8 +14,8 @@
       }
     },
     computed: {
-      RateValue() {
-        return `width: ${this.value/2 - 1}em`
+      RateValue () {
+        return `width: ${this.value / 2 - 1}em`
       }
     }
   }

@@ -32,12 +32,12 @@
   export default {
     props: ['book'],
     computed: {
-      detailUrl() {
+      detailUrl () {
         return '/pages/detail/main?id=' + this.book.id
       }
     },
     methods: {
-      preview() {
+      preview () {
         wx.previewImage({
           current: this.book.image,
           urls: [this.book.image]
